@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Sample Product",
+    "description": "This is a demo product",
+    "price": 9.99,
+    "link": "https://example.com/product"
+  }
+]
